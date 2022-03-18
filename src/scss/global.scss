@@ -13,7 +13,10 @@ body {
     font-family: $primary-font;
     background-color: white;
     font-size: $font-size;
-    
+}
+
+h1,h2,h3,h4,h5, input {
+    font-family: $primary-font;
 }
 
 .full-width {
